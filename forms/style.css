@@ -1,0 +1,20 @@
+* {
+  margin: 20px 0;
+  background: lightblue;
+  color: white;
+}
+
+.central {
+  max-width: 400px;
+  margin: auto;
+}
+
+.form-group {
+  border: 1px solid white;
+  border-radius: 3px;
+  padding: 10px;
+}
+
+input {
+  background: white;
+}
