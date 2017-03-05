@@ -27,7 +27,7 @@ var box = function(width, height) {
     return makeSingleStarString;
   });
 
-  console.log(fillHeightWithSingleProperLengthStrings);
+  //console.log(fillHeightWithSingleProperLengthStrings);
   // var addLineBreakToMakeBox = fillHeightWithSingleProperLengthStrings.reduce(function(total, current) {
   //   return total + current + '\n';
   // }, '');
@@ -42,8 +42,6 @@ var box = function(width, height) {
 };
 
 
-box(3, 5);
+box(10,10);
 
-// box(10,10);
-//
-// box(1,1);
+box(1,1);
